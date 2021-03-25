@@ -14,7 +14,7 @@ setup(
     packages=['pytest_mongodb'],
     python_requires='>=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*',
     install_requires=['pytest>=4.2.0',
-                      'PyYAML==5.1',
+                      'PyYAML==5.4',
                       'pymongo==3.7.2',
                       'configparser'],
     classifiers=[
